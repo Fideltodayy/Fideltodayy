@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fideltodayy
+- 👋 Hi, My name is Fidel.
 - 💻 I’m interested in projects to do with HTML,CSS,JAVASCRIPT. Generally,tech
 - 📚 I’m currently learning REACT
 - 👀 I’m looking to collaborate on the same fields
