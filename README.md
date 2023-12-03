@@ -1,10 +1,25 @@
-- 👋 Hi, My name is Fidel.
-- 💻 I’m interested in projects to do with JAVASCRIPT,nodejs,.NET,Power platform.
-- 📚 I’m currently learning REACT
-- 👀 I’m looking to collaborate on the same fields
-- 📫 How to reach me|Twitter-@Fideltodayy| Whatsapp-@+254112741449
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fideltodayy&label=Profile%20Views&color=430680&style=flat" alt="Fideltodayy" /> </p>
 
-<!---
-Fideltodayy/Fideltodayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="[https://fidelotieno.netlify.app/">](https://fidelotieno.netlify.app/)
+<img src="static/codegif.webp" width ="30">
+</a>
+
+<!--
+
+```javascript
+const Fideltodayy = developer {
+    about {
+        name = "Fidel Otieno"
+        role = Front-End Developer
+    }
+    tech ("JavaScript", "React", "Tailwind")
+    links {
+        LinkedIn = "Fidel Otieno"
+        X (Twitter) = "Fideltodayy"
+        Portfolio = "https://fidelotieno.netlify.app/"
+    }
+}
+
+```
+
+-->
