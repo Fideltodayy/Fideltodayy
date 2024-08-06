@@ -17,10 +17,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# Interests
--   👯 I’m looking to collaborate on interesting tech related projects.
--   📫 How to reach me: (fidelotieno11@gmail.com)
--   ⚡ Fun fact: I love blues. During my free time I love to attend dance classes or watch sitcoms.
 
 👨‍🏫 Get to know more about me
 - LinkedIn: [Fidel Otieno](https://www.linkedin.com/in/fidel-otieno-66b775240/)
