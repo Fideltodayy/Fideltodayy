@@ -2,7 +2,7 @@
 ### Hi there 👋
 ## 👨 I'm FIdel Otieno✨
 
-> 💻 I am a Software developer from kenya, who enjoys making web applications aimed at making processes easier. I enjoy writing Python, JavaScript and CSS code.
+> 💻 I am a Software developer from kenya.
 
 # 👨‍🔬 Skills.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
