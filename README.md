@@ -19,7 +19,7 @@
 
 
 👨‍🏫 Get to know more about me
-- X: [Fidel Otieno](https://twitter.com/Fideltodayy)
+- X: [Fideltodayy](https://twitter.com/Fideltodayy)
 
 
 
