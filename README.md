@@ -19,7 +19,7 @@
 
 
 👨‍🏫 Get to know more about me
-- LinkedIn: [Fidel Otieno](https://www.linkedin.com/in/fidel-otieno-66b775240/)
+- X: [Fidel Otieno](https://twitter.com/Fideltodayy)
 
 
 
