@@ -2,7 +2,7 @@
 ### Hi there 👋
 ## I'm FIdel Otieno.
 
-> A bitcoin open source developer and seasoned software engineer from kenya.
+> A bitcoin open source developer and seasoned software engineer from Kenya 🇰🇪.
 
 # 👨‍🔬 Skills.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
